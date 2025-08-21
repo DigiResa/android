@@ -1,0 +1,11 @@
+<!-- app/src/main/res/drawable/btn_filled_bg.xml -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?attr/colorControlHighlight">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/colorPrimary"/>
+            <corners android:radius="12dp"/>
+            <padding android:left="12dp" android:top="8dp" android:right="12dp" android:bottom="8dp"/>
+        </shape>
+    </item>
+</ripple>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406987859563",
+    "project_id": "digiresaapp",
+    "storage_bucket": "digiresaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406987859563:android:8abf5602649e6e2c4e732e",
+        "android_client_info": {
+          "package_name": "com.digiresa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKya3A8G0BNbXUP_bAv29DbAEub-cdps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

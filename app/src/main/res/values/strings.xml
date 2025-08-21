@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DigiResa</string>
+    <string name="title_activity_main">DigiResa</string>
+    <string name="package_name">com.digiresa.app</string>
+    <string name="custom_url_scheme">com.digiresa.app</string>
+</resources>

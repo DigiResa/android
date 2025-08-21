@@ -1,0 +1,23 @@
+ext {
+    // SDK
+    compileSdkVersion = 36
+    targetSdkVersion  = 36
+    minSdkVersion     = 23
+
+    // AndroidX
+    androidxActivityVersion          = '1.9.2'
+    androidxAppCompatVersion         = '1.7.0'
+    androidxCoordinatorLayoutVersion = '1.2.0'
+    androidxCoreVersion              = '1.17.0'   // >= compileSdk 36
+    androidxFragmentVersion          = '1.8.4'
+    coreSplashScreenVersion          = '1.0.1'
+    androidxWebkitVersion            = '1.12.1'
+
+    // Tests
+    junitVersion                = '4.13.2'
+    androidxJunitVersion        = '1.1.5'
+    androidxEspressoCoreVersion = '3.5.1'
+
+    // Cordova/Capacitor (si utilisé)
+    cordovaAndroidVersion = '10.1.1'
+}
